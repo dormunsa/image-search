@@ -1,0 +1,40 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.3.3",
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-elements": "^1.1.0",
+    "react-native-image-gallery": "^2.1.5",
+    "react-native-image-view": "^2.1.4",
+    "react-navigation": "^3.9.1",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true,
+  "checkSubmission": {
+    "ex": "2",
+    "student": {
+      "id": "204325229",
+      "fullName": "Dor Munsa",
+      "email": "dmun1009@gmail.com"
+    },
+    "os": "Windows",
+    "device": "Android",
+    "deliveryDate": "04/30/2019",
+    "delay": false,
+    "delayReason": "",
+    "comments": "There is no test."
+  }
+}
